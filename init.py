@@ -3,7 +3,7 @@
 """
 Created on Sun Sep 27 14:05:18 2020
 
-@author: abduhu
+@author: Abdellah TOUNSI
 
 This codes are written to complete the application procedure to QOSF program.
 Task 4:
